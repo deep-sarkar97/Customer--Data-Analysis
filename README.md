@@ -1,4 +1,4 @@
-# Analysis of a Customer Data Set in Jupyter otebook
+# Analysis of a Customer Data Set in Jupyter Notebook
 
 
 Exploring the following libraries in Jupyter Notebook.
